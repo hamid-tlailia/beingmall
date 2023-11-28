@@ -1,6 +1,5 @@
 import { Link ,NavLink } from 'react-router-dom/cjs/react-router-dom.min';
 import './style.css'
-
 function Header() {
     return (
       <div className="header">
