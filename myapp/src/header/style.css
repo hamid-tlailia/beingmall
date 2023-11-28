@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+    font-size: 50px;
+    color: blue;
+}
+
+.mall{
+    color: crimson;
+    font-size: 30px;
+    font-family: 'Merriweather', serif;
+}
+
+a{
+  padding: 3px;
+  color: black;
+  height: auto;
+  width: 15vh;
+}
+
+a.active {
+color: red;
+box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+transition: .5s;
+border-radius: 20%;
+background-color: whitesmoke;
+font-weight: bolder;
+}

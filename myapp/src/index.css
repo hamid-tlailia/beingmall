@@ -1,0 +1,26 @@
+
+
+.pubs  .col div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  width: auto;
+  padding: 3px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.pubs .col div img {
+  height: 20vh !important;
+  width: 100% !important;
+}
+
+.pubs .col div p {
+  height: 12vh;
+  width: 100% !important;
+  text-overflow: ellipsis;
+  color: blueviolet;
+  background-color: antiquewhite;
+}
