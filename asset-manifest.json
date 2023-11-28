@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/beingmall/static/css/main.b6811702.css",
+    "main.js": "/beingmall/static/js/main.a5546e8a.js",
+    "static/js/787.1937f22b.chunk.js": "/beingmall/static/js/787.1937f22b.chunk.js",
+    "static/media/image3.jpg": "/beingmall/static/media/image3.59a79349d0f2c8320796.jpg",
+    "static/media/image1.jpg": "/beingmall/static/media/image1.1a48f60709d8e7543fdf.jpg",
+    "index.html": "/beingmall/index.html",
+    "main.b6811702.css.map": "/beingmall/static/css/main.b6811702.css.map",
+    "main.a5546e8a.js.map": "/beingmall/static/js/main.a5546e8a.js.map",
+    "787.1937f22b.chunk.js.map": "/beingmall/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6811702.css",
+    "static/js/main.a5546e8a.js"
+  ]
+}
